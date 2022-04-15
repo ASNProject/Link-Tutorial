@@ -9,5 +9,7 @@ https://www.tomshardware.com/how-to/raspberry-pi-face-mask-detector<br/>
 ##### 3. Plate Number Detection Python Raspberry>
 https://maker.pro/raspberry-pi/projects/how-to-create-a-license-plate-number-detector<br/>
 ##### 4. Train Raspberry PI
-https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition
+https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition<br/>
+##### 5. Install OpenCV Raspberry Pi
+https://yunusmuhammad007.medium.com/2-raspberry-pi-install-opencv-pada-python-3-7-menggunakan-pip3-a2504dffd984
 
