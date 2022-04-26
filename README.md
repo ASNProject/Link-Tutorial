@@ -13,6 +13,6 @@ https://www.tomshardware.com/how-to/raspberry-pi-facial-recognition<br/>
 ##### 5. Install OpenCV Raspberry Pi
 https://yunusmuhammad007.medium.com/2-raspberry-pi-install-opencv-pada-python-3-7-menggunakan-pip3-a2504dffd984<br/>
 ##### 6. Tello Drone Library Python
-https://pypi.org/project/djitellopy/
+https://pypi.org/project/djitellopy/<br/>
 https://github.com/damiafuentes/DJITelloPy.git
 
