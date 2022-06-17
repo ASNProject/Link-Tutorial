@@ -18,6 +18,7 @@ https://github.com/damiafuentes/DJITelloPy.git<br/>
 ##### 7. Face LBPH
 https://github.com/IqbalLx/Face-Recognition-OpenCV-Python<br/>
 ##### 8. VGG Tranfer Learning
-https://medium.com/nerd-for-tech/image-classification-using-transfer-learning-vgg-16-2dc2221be34c
-https://chr043416.medium.com/
+https://medium.com/nerd-for-tech/image-classification-using-transfer-learning-vgg-16-2dc2221be34c<br/>
+https://chr043416.medium.com<br/>
+https://medium.com/analytics-vidhya/image-classification-with-vgg-convolutional-neural-network-using-keras-for-beginners-61767950c5dd
 
