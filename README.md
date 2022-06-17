@@ -19,4 +19,5 @@ https://github.com/damiafuentes/DJITelloPy.git<br/>
 https://github.com/IqbalLx/Face-Recognition-OpenCV-Python<br/>
 ##### 8. VGG Tranfer Learning
 https://medium.com/nerd-for-tech/image-classification-using-transfer-learning-vgg-16-2dc2221be34c
+https://chr043416.medium.com/
 
