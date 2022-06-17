@@ -16,5 +16,7 @@ https://yunusmuhammad007.medium.com/2-raspberry-pi-install-opencv-pada-python-3-
 https://pypi.org/project/djitellopy/<br/>
 https://github.com/damiafuentes/DJITelloPy.git<br/>
 ##### 7. Face LBPH
-https://github.com/IqbalLx/Face-Recognition-OpenCV-Python
+https://github.com/IqbalLx/Face-Recognition-OpenCV-Python<br/>
+##### 8. VGG Tranfer Learning
+https://medium.com/nerd-for-tech/image-classification-using-transfer-learning-vgg-16-2dc2221be34c
 
