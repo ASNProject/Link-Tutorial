@@ -23,4 +23,6 @@ https://chr043416.medium.com<br/>
 https://medium.com/analytics-vidhya/image-classification-with-vgg-convolutional-neural-network-using-keras-for-beginners-61767950c5dd
 ##### 9. Rest API Node.js
 https://dazelpro.com/article/belajar-membuat-restful-api-dengan-express-js-dan-mysql
+##### 10. Template Admin UI
+https://yukcoding.id/download-koleksi-template-bootstrap-responsive-gratis/
 
