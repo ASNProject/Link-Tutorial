@@ -21,4 +21,6 @@ https://github.com/IqbalLx/Face-Recognition-OpenCV-Python<br/>
 https://medium.com/nerd-for-tech/image-classification-using-transfer-learning-vgg-16-2dc2221be34c<br/>
 https://chr043416.medium.com<br/>
 https://medium.com/analytics-vidhya/image-classification-with-vgg-convolutional-neural-network-using-keras-for-beginners-61767950c5dd
+##### 9. Rest API Node.js
+https://dazelpro.com/article/belajar-membuat-restful-api-dengan-express-js-dan-mysql
 
